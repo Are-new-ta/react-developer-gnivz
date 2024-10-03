@@ -1,7 +1,5 @@
 <div align="center">
-<a href="https://ibb.co/V9w1RjF"><img src="https://i.ibb.co/GpH6yxZ/1.png" alt="1" border="0"></a>
-<a href="https://ibb.co/WcJ7Sxt"><img src="https://i.ibb.co/vJnf2wY/2.png" alt="2" border="0"></a>
-<a href="https://ibb.co/FmDT7B4"><img src="https://i.ibb.co/xX7T5Mq/3.png" alt="3" border="0"></a>
+<a href="https://ibb.co/V9w1RjF"><img src="https://i.ibb.co/V9w1RjF/1.png" alt="1" border="0"></a> <a href="https://ibb.co/WcJ7Sxt"><img src="https://i.ibb.co/WcJ7Sxt/2.png" alt="2" border="0"></a> <a href="https://ibb.co/FmDT7B4"><img src="https://i.ibb.co/FmDT7B4/3.png" alt="3" border="0"></a>
 </div>
 
 ## Тестовое задание
