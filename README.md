@@ -1,15 +1,18 @@
 <div align="center">
-  <img src="hhttps://ibb.co/V9w1RjF" alt="Скриншот 1" border="0">
-  <img src="https://ibb.co/WcJ7Sxt" alt="Скриншот 2" border="0">
-  <img src="https://ibb.co/FmDT7B4" alt="Скриншот 3" border="0">
+<a href="https://ibb.co/V9w1RjF"><img src="https://i.ibb.co/GpH6yxZ/1.png" alt="1" border="0"></a>
+<a href="https://ibb.co/WcJ7Sxt"><img src="https://i.ibb.co/vJnf2wY/2.png" alt="2" border="0"></a>
+<a href="https://ibb.co/FmDT7B4"><img src="https://i.ibb.co/xX7T5Mq/3.png" alt="3" border="0"></a>
 </div>
 
 ## Тестовое задание
 
 Реализовать форму для добавления данных о человеке с использованием
 следующих технологий:
+
 • React для работы с компонентами
+
 • Любой из CSS-препроцессоров (LESS, SASS, Stylus) или CSS-in-JS решений (JSS, Styled Components, Emotion и т.д.) для работы со стилями
+
 • Webpack для сборки проекта
 
 ## Методология и процесс разработки формы
@@ -28,7 +31,6 @@
   - EmployeeForm.js: Основной компонент формы
   - InputField.js: Компонент для текстовых полей
   - SelectField.js: Компонент для поля "Пол"
-  - SaveButton.js: Компонент кнопки "Сохранить"
 
 ### 3. Разработка компонентов:
 
@@ -42,7 +44,9 @@
 - Отображает текстовое поле ввода
 - Принимает props для имени, значения, плейсхолдера, изменения значения и ошибки валидации
 - Отображает сообщение об ошибке, если оно есть
-  • SelectField.js:
+
+• SelectField.js:
+
 - Отображает выпадающий список для выбора пола
 - Принимает props для имени, значения и изменения значения
   • SaveButton.js:
